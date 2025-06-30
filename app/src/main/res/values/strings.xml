@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="sort">Sort</string>
+    <string name="search">Search</string>
+    <string name="positions">POSITIONS</string>
+    <string name="holdings">HOLDINGS</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="orders">Orders</string>
+    <string name="funds">Funds</string>
+    <string name="invest">Invest</string>
+    <string name="profit_and_loss">Profit &amp; Loss*</string>
+    <string name="current_value">Current value*</string>
+    <string name="total_investment">Total investment*</string>
+    <string name="todays_pnl">Today\'s Profit &amp; Loss*</string>
+</resources>
